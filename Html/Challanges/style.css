@@ -1,0 +1,21 @@
+a:link{
+  color:black;
+}
+a:visited{
+  
+}
+a:active{
+  color:black;
+}
+a:hover{
+  text-decoration: none;
+  color:gray;
+}
+.btn-class{
+  background-color:black;
+  color:white;
+}
+.btn-class:hover{
+  background-color:white;
+  color:black;
+}
